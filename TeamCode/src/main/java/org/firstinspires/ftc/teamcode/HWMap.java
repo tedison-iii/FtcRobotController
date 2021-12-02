@@ -13,7 +13,6 @@ public class HWMap {
     public DcMotor intakeRight = null;
     public DcMotor intakeLeft = null;
     public DcMotor armMotor1 = null;
-    public DcMotor armMotor2 = null;
 
     //create servo
     public Servo testServo = null;
